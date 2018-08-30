@@ -25,5 +25,7 @@ func main() {
 
 結果如下圖：
 
-{% file src=".gitbook/assets/screen-shot-2018-08-30-at-4.04.58-pm \(1\).png" %}
+![](.gitbook/assets/screen-shot-2018-08-30-at-4.04.58-pm%20%282%29.png)
+
+
 
